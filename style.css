@@ -291,3 +291,43 @@ span {
   align-items: center;
   gap: 20px;
 }
+
+/* ======== subscribe section style=========== */
+.subscribe-section {
+  padding: 40px;
+  text-align: center;
+  border: 2px solid red;
+  width: 1320px;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+}
+
+.subscribe-title {
+  margin: 22px 0;
+  font-size: 48px;
+  font-weight: 900;
+  color: rgb(7, 2, 17);
+}
+.subscribe-description {
+  width: 896px;
+  margin: 22px auto;
+  line-height: 32px;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.subscribe-section input {
+  width: 648px;
+  height: 72px;
+  border: none;
+  border-radius: 50px;
+  padding: 20px;
+  background: rgb(255, 255, 255);
+}
+
+.subscribe-section ::placeholder {
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(7, 2, 17, 0.3);
+}
