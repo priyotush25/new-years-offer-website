@@ -224,3 +224,70 @@ span {
 .comming-soon-right img {
   margin-top: 46px;
 }
+
+/* ======== Holy day section style=========== */
+.holy-day-sale {
+  width: 750px;
+  padding: 10px;
+  text-align: center;
+}
+.holy-day-subtitle {
+  font-weight: 500;
+  font-size: 24px;
+  color: rgb(7, 2, 17);
+}
+.holy-day-title {
+  margin: 16px auto 28px auto;
+  font-weight: 900;
+  font-size: 72px;
+  color: rgb(255, 0, 0);
+}
+.holy-day-description {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  color: rgba(7, 2, 17, 0.6);
+}
+.holy-day-title span {
+  color: rgb(7, 2, 17);
+}
+
+/* ======== portfoliosection style=========== */
+.portfolio-section {
+  width: 1320px;
+}
+.portfolio-subtitle {
+  font-weight: 500;
+  font-size: 24px;
+  color: rgb(255, 0, 0);
+}
+
+.portfolio-title {
+  margin-bottom: 22px 0;
+  font-weight: 900;
+  font-size: 48px;
+  color: rgb(7, 2, 17);
+}
+
+.portfolio-description {
+  margin-bottom: 48px;
+  line-height: 32px;
+  width: 896px;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.card-img {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+}
