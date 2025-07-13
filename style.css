@@ -170,3 +170,57 @@ span {
 .palce-title {
   margin-top: 15px;
 }
+
+/* ======== comming-soon section style=========== */
+.comming-soon-section {
+  width: 1320px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 70px;
+}
+.comming-soon-middle img {
+  padding: 20px;
+  width: 463px;
+  height: 463px;
+  border: 10px solid red;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.comming-soon-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(255, 0, 0);
+}
+.comming-soon-title {
+  margin-top: 16px;
+  font-size: 48px;
+  font-weight: 900;
+  color: rgb(7, 2, 17);
+}
+.comming-soon-description {
+  margin-top: 22px;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(7, 2, 17, 0.6);
+}
+.comming-soon-left {
+  width: 33%;
+}
+
+.comming-soon-middle {
+  width: 33%;
+}
+
+.comming-soon-right {
+  width: 33%;
+}
+.comming-soon-right-title {
+  font-size: 48px;
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+}
+.comming-soon-right img {
+  margin-top: 46px;
+}
