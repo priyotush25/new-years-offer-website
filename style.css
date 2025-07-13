@@ -296,7 +296,6 @@ span {
 .subscribe-section {
   padding: 40px;
   text-align: center;
-  border: 2px solid red;
   width: 1320px;
   border-radius: 16px;
   background: rgba(255, 0, 0, 0.05);
@@ -331,3 +330,5 @@ span {
   font-size: 18px;
   color: rgba(7, 2, 17, 0.3);
 }
+
+/* ======== footer section style=========== */
