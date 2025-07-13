@@ -36,7 +36,7 @@ h2 {
   text-align: center;
 }
 
-/* header section style */
+/* ======== Banner section style=========== */
 header {
   width: 1320px;
   height: 600px;
@@ -55,3 +55,32 @@ header {
   text-align: center;
   margin: 0 auto;
 }
+
+/* ======== offer section style=========== */
+.offer-section {
+  text-align: center;
+  width: 802.9px;
+  margin: 120px auto;
+}
+.offer-title {
+  margin-bottom: 48px;
+  font-size: 88px;
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+}
+.offer-sub-title {
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(255, 0, 0);
+}
+
+.offer-category {
+  font-size: 48px;
+  font-weight: 700;
+  color: rgb(7, 2, 17);
+}
+.offer-section img {
+  margin-top: 48px;
+}
+
+/* ======== offer section style=========== */
